@@ -4,8 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Php.
 - 🌱 I’m currently learning React-Native.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Freelancing.
 - 💬 Ask me about Php Or Any Designing Related Stuff.
 - 📫 How to reach me: [Instragram - @IamGroot](https://www.instagram.com/i__am__groot____/)                            
 - 😄 Pronouns: He/His.
