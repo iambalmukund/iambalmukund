@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Php Or Any Designing Related Stuff.
-- 📫 How to reach me: Instagram: @IamGroot
+- 📫 How to reach me: Instagram: @IamGroot[enter link description here](https://www.instagram.com/i__am__groot____/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: There may be no excuse for laziness, but I’m still looking👀.
 
