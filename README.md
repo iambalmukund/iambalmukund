@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/5gASTUDl3S2qgAF10JlwTc)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_ID)
 
 ### Connect with me:
 
