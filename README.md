@@ -1,50 +1,46 @@
- ### Ｈｏｌａ， Ｉ＇ｍ Ｂｌａｍｕｋｕｎｄ Ｄｕｂｅｙ！ 👋
+<h1 align="center">Hey there 👋, I'm Balmukund Dubey</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Backend Engineer • Java • Distributed Systems
+</h3>
 
-- 🔭 I’m currently working on Php.
-- 🌱 I’m currently learning React-Native.
-- 👯 I’m looking to collaborate on Freelancing.
-- 💬 Ask me about JAVA Or Any Designing Related Stuff.
-- 📫 How to reach me: [Instragram - @IamGroot](https://www.instagram.com/i__am__groot____/)                            
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: There may be no excuse for laziness, but I’m still looking👀.
+<br/>
 
-### Spotify Playing 🎧
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_ID)
+### About Me
 
-### Connect with me:
+- 🚀 Building scalable backend systems & microservices
+- ⚡ Working mostly with Java, Kafka, Redis & distributed architectures
+- 🧠 Interested in system design, async processing & performance optimization
+- ☕ Can spend hours fixing one tiny production bug
+- 👨‍💻 Backend engineering was fun until serialization entered the chat
 
-[<img align="left" alt="Wecoder's.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Wecoder's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Wecoder's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram ]
+<br/>
+<br/>
 
-<br />
+### Tech I Enjoy Working With
 
-### Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,postgres,mysql,docker,git,github,python,linux" />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<mg align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br/>
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+### Connect With Me
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<p align="left">
+  <a href="https://linkedin.com/in/iambalmukund" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <a href="https://instagram.com/i__am__groot____" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-<br />
-<br />
+<br/>
 
----
-[website]: http://wecoders.ml/
-[course]: http://vsCodeHero.com
-[instagram]: https://www.instagram.com/i__am__groot____/
-[linkedin]: https://www.linkedin.com/in/iambalmukund/
-
+<div align="center">
+ *"Programs must be written for people to read, and only incidentally for machines to execute."*
+</div>
